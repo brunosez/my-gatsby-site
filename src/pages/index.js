@@ -91,7 +91,7 @@ const links = [
     text: "How to Guides",
     url: "https://www.gatsbyjs.com/docs/how-to/",
     description:
-      "HHHHH1Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
+      "TEST REAL : Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
     color: "#1099A8",
   },
   {
